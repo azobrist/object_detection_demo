@@ -1,0 +1,26 @@
+<annotation>
+	<folder>neobottle</folder>
+	<filename>18122019-105318.jpg</filename>
+	<path>/home/nuc/datasets/bottle/train/neobottle/18122019-105318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neobottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>24</ymin>
+			<xmax>717</xmax>
+			<ymax>708</ymax>
+		</bndbox>
+	</object>
+</annotation>
